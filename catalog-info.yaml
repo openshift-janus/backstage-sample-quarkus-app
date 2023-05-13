@@ -11,10 +11,10 @@ metadata:
     - java
     - quarkus
   links:
-    - url: https://devspaces.apps.cluster-vp54j.vp54j.sandbox1647.opentlc.com/#https://github.com/openshift-janus/backstage-sample-quarkus-app?che-editor=che-incubator/che-code/insiders&devfilePath=.devfile-vscode.yaml
+    - url: https://devspaces.apps.cluster-t2qpr.t2qpr.sandbox1114.opentlc.com/#https://github.com/openshift-janus/backstage-sample-quarkus-app?che-editor=che-incubator/che-code/insiders&devfilePath=.devfile-vscode.yaml
       title: CodeReady Workspaces (VS Code)
       icon: web
-    - url: https://devspaces.apps.cluster-vp54j.vp54j.sandbox1647.opentlc.com/#https://github.com/openshift-janus/backstage-sample-quarkus-app?che-editor=che-incubator/che-idea/next&devfilePath=.devfile-intellij.yaml
+    - url: https://devspaces.apps.cluster-t2qpr.t2qpr.sandbox1114.opentlc.com/#https://github.com/openshift-janus/backstage-sample-quarkus-app?che-editor=che-incubator/che-idea/next&devfilePath=.devfile-intellij.yaml
       title: CodeReady Workspaces (JetBrains IntelliJ)
       icon: web
 spec:
